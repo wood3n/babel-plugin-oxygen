@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-oxygen",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "main": "index.js",
   "repository": "https://github.com/wood3n/babel-plugin-oxygen.git",
   "author": "wood3n",
